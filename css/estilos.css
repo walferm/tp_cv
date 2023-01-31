@@ -1,0 +1,96 @@
+p 
+{
+    color: black;
+    width: 300px;
+}
+div.col2
+{
+  
+PADDING-RIGHT: 20px;
+PADDING-LEFT: 20px;
+FLOAT: left;
+display: block;
+PADDING-BOTTOM: 20px;
+MARGIN: 15px 20px;
+WIDTH: 100%;
+PADDING-TOP: 20px;
+background-color: blue;
+LIST-STYLE-TYPE: none
+}
+
+div.col2 LI
+{
+PADDING-RIGHT: 20px;
+DISPLAY: inline;
+PADDING-LEFT: 20px;
+FLOAT: left;
+PADDING-BOTTOM: 20px;
+WIDTH: 50%;
+PADDING-TOP: 20px
+}
+
+
+
+#titulo_CV
+{
+    font-family: ‘Roboto’, sans-serif;
+    PADDING-RIGHT: 2px;
+    DISPLAY: block;
+    PADDING-LEFT: 2px;
+    FLOAT: left;
+    PADDING-BOTTOM: 2px;
+    WIDTH: 30%;
+    PADDING-TOP: 50px;
+    font-weight: bold;
+    font-size: 2em;
+    color: aliceblue
+}
+
+#datos_personales
+{
+
+    PADDING-RIGHT: 2px;
+    DISPLAY: block;
+    PADDING-LEFT: 2px;
+    FLOAT: center;
+    PADDING-BOTTOM: 2px;
+    PADDING-TOP: 2px;
+    font-weight: bold;
+    font-size: 1em;
+    color: black
+}  
+
+button {
+  margin: 1rem;
+  border: none;
+  padding: 1rem 1rem;
+  PADDING-LEFT: 10px;
+  PADDING-BOTTOM: 20px;
+  PADDING-TOP: 20px;
+  background: #d90e52;
+  color: white;
+  cursor: pointer;
+}
+
+.show {
+  background: #0c7d97;
+}
+
+
+.div {
+    margin: 1rem;
+    max-width: 400px;
+    box-shadow: 0 0 1px #000;
+    padding: 1rem;
+    opacity: 1;
+    transition: 0.2s all linear;
+  }
+  
+  .div_hide {
+    opacity: 0;
+  }
+  
+div {
+    margin: 20px;
+    background-color: lightblue
+  }
